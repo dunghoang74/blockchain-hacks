@@ -3,7 +3,7 @@ pragma solidity ^0.8.3;
 
 /*
 steps:
-+ EtherStore:
++ IDOclaim:
 - deposit 5 ether 
 + Attack:
 - call attack with 1 ether value 
